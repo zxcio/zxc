@@ -1,0 +1,3 @@
+[submodule "ext/rxterm"]
+	path = ext/rxterm
+	url = https://github.com/LoopPerfect/rxterm.git
